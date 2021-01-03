@@ -1,0 +1,1 @@
+web: gunicorn pydjreact.wsgi --log-file -
