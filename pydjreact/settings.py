@@ -26,7 +26,7 @@ SECRET_KEY = 'j*dau*7w=r=227g_+2_(k83x9b=z=qz%iozzcvj&!p0@y78=-j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["https://sampleflaskreact.herokuapp.com/"]
+ALLOWED_HOSTS = ["sampleflaskreact.herokuapp.com"]
 
 # Application definition
 
